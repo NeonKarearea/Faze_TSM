@@ -1,0 +1,35 @@
+body {
+	background-color: #E6E6E6;
+	background-image: url("clan_badge.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1 {
+    color: #0F1F4B;
+    font-size: 75px;
+    font-weight: bold;
+    font-family: Sans-Serif;
+}
+p {
+	color: #28324D;
+	font-size: 18px;
+	font-family: Sans-Serif;
+}
+h3 {
+	color: #0F1F4B;
+	font-size: 24px;
+	font-family: Sans-Serif;
+}
+#banner {
+	color: #FFFFFF;
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Sans-Serif;
+}
+#result {
+	color: #0F1F4B;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Sans-Serif;
+}
