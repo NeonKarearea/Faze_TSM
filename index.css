@@ -1,3 +1,4 @@
+/* tells us how the backoground should look */
 body {
 	background-color: #E6E6E6;
 	background-image: url("https://github.com/NeonKarearea/Faze_TSM/blob/master/clan_badge.png?raw=true");
@@ -5,28 +6,33 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+/* tells us how the main header should look */
 h1 {
     color: #0F1F4B;
     font-size: 75px;
     font-weight: bold;
     font-family: Sans-Serif;
 }
+/* tells us how paragraphs should look */
 p {
 	color: #28324D;
 	font-size: 18px;
 	font-family: Sans-Serif;
 }
+/* tells us how sub-headers should look */
 h3 {
 	color: #0F1F4B;
 	font-size: 24px;
 	font-family: Sans-Serif;
 }
+/* tells us anything with the id of banner should look */
 #banner {
 	color: #FFFFFF;
 	font-size: 40px;
 	font-weight: bold;
 	font-family: Sans-Serif;
 }
+/* tells us how anything with the id of result should look */
 #result {
 	color: #0F1F4B;
 	font-size: 18px;
