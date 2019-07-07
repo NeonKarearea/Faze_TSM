@@ -30,6 +30,7 @@ a {
 	font-size: 18px;
 	font-family: Sans-Serif;
 	text-decoration: none;
+}
 /* tells us anything with the id of banner should look */
 #banner {
 	color: #FFFFFF;
